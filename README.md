@@ -50,3 +50,6 @@ A saída do script será algo como:
 #Network: IP 192.168.1.100 (00:1a:2b:3c:4d:5e)
 #Sudo: 5 cmd
 ```
+
+![A saída do script será algo como:](./monitoring-image.png)
+
