@@ -4,7 +4,7 @@ Este repositório contém um script Bash para monitorar o estado de um sistema L
 
 ## Conteúdo
 
-- `monitoramento.sh`: Script Bash para monitoramento do sistema.
+- `monitoring.sh`: Script Bash para monitoramento do sistema.
 
 ## Funcionalidades
 
